@@ -88,7 +88,7 @@ Here I present selected projects that I find quite interesting.
     - It uses the connection between webpages to join them together and create an offline PDF of the webpage with the help of depth first search (DFS).    
     - [CODE](https://github.com/kartikey-singh/WebTree)
 
-## Position of Responsibility
+## Positions of Responsibility
 
 These are the projects that I did as part of IIT (BHU) technical teams.
 
