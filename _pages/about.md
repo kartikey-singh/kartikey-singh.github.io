@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /about/
+permalink: /
 title: Welcome
 author_profile: true
 header:
@@ -25,7 +25,7 @@ Please check out my technical journey (Résumé/Curriculum vitae) on the [CV](/c
 
 Feel free to [contact me](mailto:kartikey.singh.ind@gmail.com) if you have any collaboration or research ideas or think I might be a good fit or simply would like to connect. 
 
-For a glimpse of my technical experience, hobbies and projects, please checkout my [Portfolio](/portfolio/). I also like to write about things that I find interesting and sometimes I just ramble on [Posts](/posts/).
+For a glimpse of my technical experience, hobbies and projects, please checkout my [Portfolio](/portfolio/). I also like to write about things that I find interesting and sometimes I just ramble on [Blogs](/blog/).
 
 ## Motto:
 
