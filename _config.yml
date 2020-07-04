@@ -12,12 +12,12 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : air # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-
+minimal_mistakes_skin    : sunrise # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+include: ["_pages"]
 # Site Settings
 locale                   : "en-US"
 title                    : "Kartikey Singh"
-title_separator          : "-"
+title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Kartikey Singh"
 description              : "A technical side glimpse of my life."
@@ -95,12 +95,8 @@ analytics:
 author:
   name             : "Kartikey Singh"
   avatar           : "/assets/images/profile.jpeg" 
-  bio              : "Upcoming Software Engineer@Paytm. 
-                      
-  Previously: Electronics Undergraduate at Indian Institute of Technology(BHU), Varanasi."
-  motto            : "##Motto:
-    
-  When the going gets tough, the tough get going."
+  bio              : Upcoming Software Engineer at Paytm \| Samsung Bangalore Intern \| ECE at Indian Institute of Technology(BHU), Varanasi.
+  motto            :                      
   location         : "Noida, India"
   email            :
   links:
@@ -122,10 +118,16 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/kartikeysingh21/"
+    - label: "Stackoverflow"
+      icon: "fab fa-fw fa-stack-overflow"
+      url: "https://stackoverflow.com/users/7018323/kartikey-singh?tab=profile"      
 
 # Site Footer
 footer:
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:kartikey.singh.ind@gmail.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
@@ -264,7 +266,6 @@ tag_archive:
 #   permalinks:
 #     category: /categories/:name/
 #     tag: /tags/:name/
-
 
 # HTML Compression
 # - https://jch.penibelst.de/
