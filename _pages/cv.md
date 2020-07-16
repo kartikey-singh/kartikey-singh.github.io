@@ -6,7 +6,7 @@ author_profile: true
 header:
     overlay_image: /assets/images/background1.jpg    
 classes: wide
-date: July 4, 2020
+date: July 16, 2020
 ---
 
 ### Curriculum vitae
